@@ -25,7 +25,7 @@
         <!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-dependencies -->
         <spring-cloud.version>Finchley.SR1</spring-cloud.version>
         <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
-        <mysql.version>8.0.18</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <!-- https://mvnrepository.com/artifact/com.github.pagehelper/pagehelper-spring-boot-starter -->
         <pageHelper.start.version>1.2.12</pageHelper.start.version>
         <!-- https://mvnrepository.com/artifact/com.github.tobato/fastdfs-client -->
